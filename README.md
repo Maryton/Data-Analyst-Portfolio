@@ -1,2 +1,2 @@
-# About
-Hi, I am Mary and I am a data analyst. During my short online course on Data Analytics Essentials by Cisco, I got to refine my skills in data analysis. I have added some of my most recent projects that showcase my prowess in combing through massive data and narrowing down to the nost relevant dta sets for analysis. The projects also highlight how I use different data analytics tools like Excel, Google Sheets, SQL and Tableau to extract valuable data insights and make data-driven decision. 
+
+ 
